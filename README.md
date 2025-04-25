@@ -66,9 +66,9 @@ You need only a couple of things to start.
 ## Usage
 
 After compiling you can launch the editor.
-    ```sh
+  ```sh
     java -cp "path-to-the-snapshot;path-to-jna-jar" org.project.texteditor.TextEditor name-of-file.txt
-    ```
+  ```
 You can quit and save to the same file by pressing ctrl + q.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

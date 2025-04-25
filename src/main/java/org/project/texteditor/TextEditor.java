@@ -459,7 +459,7 @@ public class TextEditor {
     }
 
     private static void handleKey(int key) {
-        if (key == 'q') {
+        if (key == controlKey('q')) {
             exit();
         } else if (List.of(ARROW_UP, ARROW_DOWN, ARROW_LEFT, ARROW_RIGHT).contains(key)) {
             moveCursor(key);
