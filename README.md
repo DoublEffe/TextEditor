@@ -5,17 +5,17 @@
 <br />
 <div align="center">
  
-  <h3 align="center">ADMIN</h3>
+  <h3 align="center">TEXT EDITOR</h3>
   <p align="center">
     TEXT EDITOR
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DoublEffe/TextEditor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="">Report bug</a>
+    <a href="https://github.com/DoublEffe/TextEditor/issues">Report bug</a>
     ·
-    <a href="">Request feature</a>
+    <a href="https://github.com/DoublEffe/TextEditor/issues">Request feature</a>
   </p>
 </div>
 
@@ -76,6 +76,6 @@ You can quit and save to the same file by pressing ctrl + q.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [java]: https://www.java.com/  
-[java badge]: https://img.shields.io/badge/JAVA%209-DD0031?style=for-the-badge&logo=java&logoColor=white&logoSize=auto
+[java badge]: https://img.shields.io/badge/JAVA%20-DD0031?style=for-the-badge&logo=Java&logoColor=white&logoSize=auto
 [maven]: https://maven.apache.org/  
-[maven badge]: https://img.shields.io/badge/APACHE%20MAVEN%209-DD0031?style=for-the-badge&logo=ApacheMaven&logoColor=white&logoSize=auto
+[maven badge]: https://img.shields.io/badge/APACHE%20MAVEN%20-DD0031?style=for-the-badge&logo=ApacheMaven&logoColor=white&logoSize=auto
