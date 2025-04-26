@@ -1,9 +1,0 @@
-org\project\texteditor\WindowSize.class
-org\project\texteditor\WindowsTerminal$Kernel32$COORD.class
-org\project\texteditor\WindowsTerminal$Kernel32$CONSOLE_SCREEN_BUFFER_INFO.class
-org\project\texteditor\Rope.class
-org\project\texteditor\WindowsTerminal$Kernel32$SMALL_RECT.class
-org\project\texteditor\WindowsTerminal$Kernel32.class
-org\project\texteditor\Terminal.class
-org\project\texteditor\TextEditor.class
-org\project\texteditor\WindowsTerminal.class
